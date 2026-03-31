@@ -1,0 +1,10 @@
+jupyterlab
+httpx
+matplotlib
+mcp
+numpy
+pandas
+nose2
+pip
+pytest
+pytest-asyncio
